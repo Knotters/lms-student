@@ -1,0 +1,12 @@
+.enrollment {
+	margin-left: 220px;
+	display: grid;
+	background-color: #effcfd;
+	min-height: 100vh;
+	height: auto;
+}
+@media (max-width: 900px) {
+	.enrollment {
+		margin-left: 50px;
+	}
+}
